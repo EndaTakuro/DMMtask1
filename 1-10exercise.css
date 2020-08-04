@@ -68,14 +68,14 @@ footer {
 
 @media screen and (max-width: 768px) {
 	main {
-		width: 100%;
+		width: 90%;
 	}
 	.content {
 		width: 100%;
 		height: auto;
 	}
 	.content:nth-child(2) {
-	margin: 0;
+	margin: 20px 0;
 	}
 	.image1 {
 		height:320px;
